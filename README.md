@@ -186,6 +186,7 @@ For more details, refer to the [Gemini API docs](https://ai.google.dev/gemini-ap
   - [x] `top_p`
   - [x] `tools`
   - [x] `tool_choice`
+  - [ ] <!-- trigger deploy -->
   - [ ] `parallel_tool_calls` (is always active in Gemini)
   - [x] [`extra_body`](#gemini-specific-functions)
 
